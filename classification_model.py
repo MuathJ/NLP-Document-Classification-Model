@@ -1,4 +1,3 @@
-##########-------------- Muath Juady - 11440920 --------------##########
 import re
 import glob
 import os
